@@ -1,6 +1,6 @@
 ![Social Norms Simulator](https://github.com/user-attachments/assets/7e076043-6841-4c9a-b4fb-1d24ccfd8f56)
 
-> Simulate social norms and expectations in various contexts.
+> Simulate social norms, dynamics and expectations in various contexts. 
 
 #
 
